@@ -92,7 +92,7 @@ controversy//争论，辩论，dispute，argument！!
 professional,occupation
 **vegetarian
 homestead
-cayoon//峡谷
+canyon//峡谷
 portraiture//肖像画
 verse//诗歌
 credential//资格证certificate，diploma，qualification
@@ -1940,4 +1940,902 @@ nauseous
     nauseous
     
 }
+
+
+
+{
+    nonsense废话
+    nauseous恶心
+    nauseous恶心   nauseous恶心
+}
+
+
+
+
+
+#21
+
+******************hoard储藏，囤积
+parallel    parallel平行的*******parallel
+litter垃圾{
+    liter升
+    litter垃圾
+}
+underlying潜在的
+symbol emblem徽章，标记
+*************************futile无效的，无用的
+futile无效的，无用的
+futile无效的，无用的
+futile无效的，无用的
+significant
+significant
+significant
+{
+    lumber笨拙的，木材木料
+    timber
+}
+
+{
+    *******************************************
+    amble漫步
+    wonder
+    roam漫步
+    stroll漫步
+    *********************************************
+
+}
+
+fervor热情，热烈
+fervor{
+    passion
+    fervor
+    fervor
+}
+affection热爱
+upheaval大巨变巨变upheavalupheaval
+simplify
+dozen
+realtor房产经纪人
+bacteria细菌
+bacteria细菌
+bacteria细菌
+
+aerobic有氧运动*****
+filament灯丝，细丝*******
+gossip
+hitch提起拉起拴住******
+**************************pragmatic务实的
+pragmatic务实的
+grump发脾气，脾气不好******
+indigent贫穷的**********
+indigent贫穷的
+{
+    merger
+    indigent贫穷的
+    sterile不育的，贫瘠的
+    arid
+    insufficient
+    scanty**********
+}
+
+knack窍门
+lighthearted
+necessity
+pedestrian
+ramble漫步漫谈
+setback
+hull外壳
+*********************taut紧绷的，结实的（stout）
+********************8sleigh雪橇
+sleigh////sleigh
+excavate
+attention
+attentive
+nutrition
+
+****intoxicate醉酒
+{
+    intoxicate醉酒
+    sober清醒的冷静的
+}
+undergo遭受*****
+colony群体殖民地*****
+mottle有杂色的斑驳的***********************
+mottle有杂色的斑驳的
+military
+enclose装入，围住
+envelope
+************************stature身高，地位声望
+statue，stature
+livelihood
+sole单独的******
+mountainous
+sample标本样本
+{
+    assume
+    hypothesis
+    suppose假定假设
+    premise
+    *******premise
+}
+
+
+*******veil面纱
+****************************infest大批滋生*****
+tolerant
+{
+    confidence
+    belief
+    faith 
+}
+
+{
+    flair本领天资
+    fair公平的
+    flair
+}
+{
+************************************
+stash藏匿隐藏
+conceal
+disguise
+secrete分泌，藏匿
+}
+
+inflate{
+    inflation通胀
+}
+
+
+{
+    arid贫瘠干旱
+    amid在之中
+
+}
+
+paddle
+{
+    paddle船桨
+    peddle兜售
+    puddle水坑
+    panel面板
+    prominent卓越的，杰出的
+    permanent永久的
+    preeminent卓越
+    prudent 
+    pertinent
+}
+venture  gamble bet打赌
+gamble
+chorus
+{
+    nonsense废话
+    nauseous恶心
+    nauseous
+}
+
+ration佩姬良， quota
+cushion mat  
+*****profound
+***********attire服装attire
+ornithology{
+    ornithology
+    ornithology
+    ornithology鸟类学
+}
+
+palatable美味的
+palatable美味的
+palatable美味的
+
+
+
+
+
+
+#22
+account
+vulgar下流的，粗俗的
+vogue
+halt停止{
+    halt停止
+    cease停止
+    cease停止
+    cease停止
+     ************
+
+}
+
+Turkey
+impulse（冲动，脉冲）
+impulse（冲动，脉冲）
+
+{
+    property 
+    asset 
+    ************
+}
+{
+     ************dispatch派遣
+     depart
+}
+dilate膨胀，扩张
+rite 仪式典礼 ************
+rite仪式典礼
+rite仪式典礼
+curriculum
+curriculum
+curriculum
+strategic战略性的tactic
+puzzle labyrinth迷宫 labyrinth 
+labyrinth
+stick粘，刺戳spear thrust puncture，刺穿，penetrate，pierce
+primitive原始的
+primordial原始的，最初的
+primordial原始的，最初的
+primordial原始的，最初的
+periodic周期的
+periodic周期的
+** ************sledding进展    sledding进展
+sleigh雪橇sleigh
+comprehensive
+forage觅食 ************forage觅食
+forage觅食
+forage觅食
+forage觅
+technic技术的
+hook
+random
+{
+    lunge突降，猛冲
+    lounge休息室
+    {
+        lunge
+        lounge休息室
+    }
+lounge休息室
+}
+
+{
+    flora植物群
+    fauna动物群
+
+}
+
+staggered错开的，震惊的 ************
+pine 
+pining 
+naval
+elm榆树elm
+implicit{
+    含蓄的
+    绝对的
+    implicit
+    implicit
+}
+centigrade
+sensory感觉的，感官的
+yarn ************纺纱
+{
+     ************
+     yarn线，编造的故事
+     thread
+     threat威胁
+}
+
+analogy类比推理
+analogy类比推理
+{
+    analogy类比推理
+    analogy类比推理
+    analogy类比推理
+
+}
+
+publication出版
+ ************compulsory义务的
+ compulsory义务的
+ compulsory义务的
+compulsory义务的
+pointed尖的
+assemble组装
+{
+    discourse演讲
+}
+
+aquifer汗水仓
+{
+    reverse
+    conversion
+
+}
+summary
+carbon
+ ************petroleum石油
+ petroleum石油
+ accessory
+accessory零件
+petroleum石油
+{
+    accessory
+    adjunct零件
+}
+elongate延长
+unconscious
+oblivious遗忘的，未注意的oblivious
+imagist
+patriarch酋长
+yoke裤腰，奴役 ************
+abridge缩短
+ ************collaborate
+  ************adept熟练的，精通的
+
+**********
+**********
+adept熟练的，精通的
+adept熟练的，精通的
+adept熟练的，精通的
+controversial
+agenda
+latitude维度
+**********appraise评估估价appraise
+appraise评估估价appraise
+appraise评估估价appraise
+evaluate    
+{
+    revere
+    homage
+    esteem尊重
+    esteem尊重
+    esteem1
+    esteem尊重
+}
+session节
+{
+    aptitude天赋才能
+    flair
+    {
+        aptitude天赋才能
+        aptitude天赋才能
+        aptitude天赋才能
+        latitude维度
+        longitude经度
+    }
+}
+
+trifle琐事
+trifle琐事
+trifle琐事
+trifle琐事
+
+dismiss
+archive存档
+browser
+{
+    prefer
+    perfect
+}
+
+diligent勤勉的
+remarkable
+dispatch派遣
+{
+    fury
+    frenzy
+    狂热，狂暴，狂怒
+}
+
+
+
+
+
+#23
+radioactive
+********************capacity能力升任
+incapacity
+potassium钾 potassium钾
+potassium钾
+**********crippling令人震惊的，crippling
+slip滑倒
+******************************impending即将发生的
+decline 
+pepper胡椒
+bison野牛
+gist主旨大意motif
+hypothetical假设的
+hypothetical假设的
+**************************************************illustrative
+perspicuous明白易懂的
+perspicuous明白易懂的
+perspicuous明白易懂的
+intern 
+rigorous谨慎的，严格的
+rigor严格，严酷rigor
+skim
+********************podium讲台
+transcribe
+abbey修道院
+batter猛击
+syllabus教学大纲
+{
+    podium讲台
+    discourse演讲
+    syllabus教学大纲
+}
+brag
+{
+    ******************************
+    brag
+    boast自卖自夸boast
+}
+
+**********subordinate次要的，下级的复数的
+curtsy屈膝礼
+feast宴会**********
+gorge峡谷，山谷
+lope步伐
+systematize
+disturb
+evaluate估值
+envelope
+monitor
+submit屈服屈从，提交
+palate胃口
+paramount
+parliament国会
+parliament国会
+parliament国会
+mere 
+********************hive蜂箱
+{
+    squabble口角
+    squander挥霍
+}
+{
+    entice 
+    tempt//诱惑
+    lore
+    attract
+    诱惑
+    ****************************************
+
+}
+
+resort度假胜地，求助
+********************ravine{
+    gorge峡谷，山谷
+    ravine峡谷
+    canyon峡谷
+}
+
+meteorologist
+meteorologist
+meteorologist
+********************meteorologist
+vocation
+vacation职业
+{
+    gap 
+    rip撕裂，撕开
+    crevice
+
+}
+
+trail审讯******************************************************************************************
+trail审讯实验验证
+contest
+recognize
+split分开分裂，
+**********counteract消除，
+validity合法性
+validity合法性
+facility
+infectious
+create
+crater炮弹坑********************
+balcony阳台
+balcony阳台
+balcony阳台
+balcony阳台
+strike
+chunk大片
+sac囊
+vaccine
+paramount
+**************************************************aesthetic审美的
+aesthetic审美的 aesthetic aesthetic  aesthetic  aesthetic aesthetic 
+colonize
+extrinsic
+authorize
+margin边缘，白夜，差额********************************************************************************
+harmonic
+{
+    aloof原理的，冷淡的
+    indifferent
+
+}
+persuade说服
+persuasive
+persuasive
+persuasive
+persuasive
+persuasive
+persuasive
+influenza
+influenza
+
+
+
+#24
+depot 
+deport驱逐
+{
+    depot
+    depository
+    repository
+}
+tycoon大亨
+canyon
+justice
+panel面
+guilty
+decipher
+cushion
+microorganism
+surgery
+impact 
+crustaceans甲科动物****************
+respondent
+particular
+gregarious社交的
+gregarious社交的
+******************************chafe擦伤
+lizard蜥蜴
+artifact
+{
+    gravel沙砾
+    engrave
+    grave
+}
+********************panorama全景
+panorama全景
+panorama全景
+unparallel
+******************************
+stripe条纹
+clay粘土
+{
+    dispatch派遣
+    patch补丁********************
+}
+
+restrain restrict
+precise准取得
+accurate
+***************comprise由--组成
+enzyme没酵母
+{
+    luxurious
+    ********************splendid
+    sumptuous奢华的
+    ****************************************
+
+}
+allegiance loyalty
+
+
+invasion
+cabinet
+hover
+accuracy
+petrol 
+**********diminish减小
+{
+    immerse
+    immense巨大的
+
+}
+
+depot仓库{
+    depot仓库
+    depository仓库
+    repository仓库
+    deposit存款
+}
+
+**********tycoon大亨
+justice
+panel面板{
+    paddle船桨
+    peddle
+    puddle水坑
+    propel
+    propel
+}
+
+guilty***
+decipher
+cushion垫子**
+surgery外科手术**********
+impact
+**********crustaceans甲科动物
+attain
+respondent
+particular
+gregarious**********社交的
+gregarious
+gregarious
+chafe擦伤**********
+manner
+**********artifact人工制品
+artifact
+crystal
+gravel沙砾
+{
+    grave
+    engrave
+    external
+}
+********************panorama全景panorama  panorama全景  panorama全景
+panorama全景   panorama全景   panorama全景
+{
+    paramount
+    preeminent卓越
+    prominent卓越的，杰出的
+    **************************************************permanent持续的，永久的
+}
+unparalleled空前的，无比的
+suspend
+afflict{
+    afflict痛苦折磨
+    torment极度痛苦
+    tortuous折磨人的tortuous
+    torture折磨
+    
+}
+stripe条纹
+clay粘土**********
+comment 
+patch补丁
+patriarch酋长
+patch补丁
+restrain
+restrict
+accurate
+**********accurate
+**********accurate
+********************comprise由什么组成
+enzyme没酵母
+enzyme没酵母
+{
+    ************************************************************
+    luxurious
+    magnificent
+    magnificent
+    splendid
+    sumptuous
+    sumptuous
+    sumptuous
+    splendid
+    sumptuous
+
+}
+
+{
+
+忠诚
+loyalty
+devotion
+allegiance
+allegiance
+allegiance
+allegiance
+allegiance
+
+
+allegiance
+allegiance
+allegiance
+
+}
+
+invasion
+cabinet内阁
+hover
+accuracy
+expire //respire
+gasoline
+angular
+immerse
+owl猫头鹰
+crook不诚实，欺诈，弯曲的******************************
+crook不诚实，欺诈，弯曲的
+stratum地层
+ambitious
+sentiment情绪
+ultimate
+********************plumage羽毛
+plumage羽毛
+{
+    estate
+    asset
+    {
+        evaluate
+        appraise评估估价appraise
+        {
+            appraise评估估价appraise
+            apprise告诉
+        }
+    }
+
+}
+descended
+varnish
+dissolved使溶解，清除eliminate
+superficial表面的
+peninsula半岛////peninsula半岛//peninsula半岛
+ornate华丽的奢华的
+ornate华丽的奢华的**********
+plaudit
+quiver颤动**********
+{
+    stroll漫步
+    wander
+    amble漫步，stroll
+    ramble漫步漫谈
+    saunter漫步闲逛 
+}
+tackle处理对付
+usher招待员
+vigor精力
+solitude孤独**********
+whim兴致冲动
+******************************apparatus器械器具
+vogue
+brace紧绷，支架
+censor审查员
+respire呼吸
+morphology形态学
+{
+    adroit精明的********************
+}
+morphology形态学
+fare进展
+perch栖息
+{
+    弥漫渗透
+    permeate 
+    pervasive
+    penetrate 
+}
+diminish减小
+  
+
+hitch提起拉起拴住
+
+
+
+
+
+#25
+stress
+digest消化
+pancreas胰腺**********pancreas胰腺**********pancreas**********
+pancreas胰腺
+rust 
+******************************testimony证词证据{
+    evidence
+    testimony证词证据
+    testimony证词证据
+    testimony证词证据
+}
+wick蜡烛灯芯{
+    filament灯丝 
+    wick蜡烛灯芯
+    filament
+}
+{
+perishable易腐烂的
+perish灭亡，湮灭********************
+perishable易腐烂的
+}
+
+nocturnal夜间nocturnal******
+application
+distant 
+********************polygon多边形多角形
+{
+    polygamy一夫多妻
+    polygon多边形多角形
+}
+arbitrary武断的********************
+arbitrary武断的
+membrane薄膜membrane//membrane//membrane//membrane
+{
+    clam
+    console
+    soothe缓解
+    quell镇压，压抑，缓解
+    relief解脱
+    relieve 
+
+}
+
+robust健壮的**********stout///robust鲁棒性，健壮的
+{
+    poison毒药
+    poisonous
+    toxic
+    venom
+    venomous有毒的
+}
+
+chamber
+sleek光泽，gloss
+tactile触觉的
+tact////intact完整的
+variant变体
+choppy******************************不连贯的，支离破碎的choppy//choppy
+solvent
+viscous粘滞的，粘性的viscous//viscous粘滞的，粘性的viscous
+yolk蛋黄
+{
+    yoke裤腰，奴役
+    yoke
+}
+
+cavern
+****************************************drench湿润soak
+drench湿润soak
+contiguous接壤的********************
+moor沼泽
+crescent新月
+scent香味********************
+missile
+shroud隐蔽遮蔽conceive
+mound土堆
+shroud隐蔽遮蔽conceive****************************************
+eccentric古怪的********************
+temperate温和的********************
+shroud隐蔽遮蔽conceive
+cliff//bluff虚张声势，悬崖
+neutral
+abbreviate缩写
+crustal
+glow发光**********
+notate
+pore仔细阅读，小孔钻研
+granular颗粒的
+bead滴
+grasp抓住，hatch孵化
+seize抓住************************************************************
+hitch提起拉起拴住
+
+bias
+outcome结果
+unconsolidated
+fort堡垒
+{
+    citadel堡垒
+    hatch孵化
+}
+
+turnpike收费公路
+contradiction矛盾，看法不一致，contradict反
+contract 
+oasis绿洲
+gulf海湾
+engulf
+beneficial有益的
+spherical球星的
+
+
+
+
+
+
+#26
+
+
+
 
