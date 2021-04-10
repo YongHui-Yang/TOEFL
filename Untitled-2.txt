@@ -12,7 +12,7 @@ decade
 *plurlism
 *vagrant//无业游民，流浪汉
 incline//倾斜，倾向，斜坡slope
-grevious//令人忧伤的，及其严重的serious
+grievous令人忧伤的，严重的serious//令人忧伤的，及其严重的serious
 saucy
 disproportionate
 *stumble
@@ -921,7 +921,7 @@ supervise
 exposure
 substance
 counselor律师
-sanction
+sanction制裁
 enhance
 append
 **chilly寒冷的
@@ -1435,6 +1435,8 @@ construct
 {
     mundane世俗的
     secular 
+    vulgar下流的，粗俗的
+    
 
 }
 granite花岗岩******
@@ -2521,7 +2523,7 @@ enzyme没酵母
     ****************************************
 
 }
-allegiance loyalty
+allegiance loyalty4
 
 
 invasion
@@ -2709,7 +2711,7 @@ perch栖息
     penetrate 
 }
 diminish减小
-  
+
 
 hitch提起拉起拴住
 
@@ -2789,6 +2791,7 @@ cavern
 drench湿润soak
 contiguous接壤的********************
 moor沼泽
+
 crescent新月
 scent香味********************
 missile
@@ -2830,12 +2833,1985 @@ beneficial有益的
 spherical球星的
 
 
+metaphor隐喻metaphor
+copious富饶的
+***********fertile富饶的
 
 
 
 
 #26
+permit允许
+divorce离婚
+category
+************figurative比喻的
+metaphor隐喻metaphor
+figurative比喻的
+portrait肖像
+methanol甲醇
+amass聚集
+feasible可行的
+{
+    fertile富饶的
+    copious富饶的
+    corporeal肉体的
+    corpus文献库
+}
+{
+    书法
+    penmanship
+    calligraphy
+}
 
+**************
+{
+    precious珍贵的
+    precise准取得
+    imprecise
+    precision********************
+}
+wisp一束
+susceptible
+{
+    suspect怀疑
+    susceptible易感染的，易受影响的
+    susceptible
+
+}
+
+{
+    respect 
+    esteem尊重
+    revere 
+    homage
+}
+
+effluent污水
+integrity正直，完整性**************integrity正直，完整性
+integrity正直，完整性
+{
+    baffle困难
+    frustrate
+    thwart阻碍，使受挫
+    **********thwart阻碍，使受挫
+    thwart阻碍，使受挫
+    hamper妨碍阻挠
+
+}
+jar震动**********
+accordion
+posthumous死后的
+posthumous死后的**********
+**************hamper妨碍阻挠
+sodium
+centennial百年己年
+**********tendon肌腱
+maturity
+shoulder
+boulder巨石
+{
+    careless
+    negligent
+}
+voracious狼吞虎咽的
+acute激烈的
+lethargy死气沉沉的
+diverse不同的，多样的
+acclaim
+*********meteorite陨石
+shrub灌木丛
+orient
+pinnacle顶峰
+
+{
+    frigid寒冷的
+    freezing
+    chilly寒冷的
+    wintry
+}
+fluid液体的
+crack破裂**********
+tectonic构造学tectonic
+democrat
+boon感嗯
+photodisspciation
+format格式
+acidity
+prospector勘探者
+rotational
+{
+    marsh沼泽
+    swampy沼泽
+    swampy沼泽
+    ******************************swampy沼泽
+
+}
+troposphere对流层
+wintry寒冷的
+buoyant漂浮的
+flamboyant华丽的
+cement粘合剂
+entity实体
+fusion融化
+**********spatial空间的
+********************spatial空间的
+hydraulic
+condense压缩compress
+allergy
+********************gorgeous华丽的
+impose强加，levy征税
+
+
+
+
+#27
+
+
+exempt被免除的**********
+board膳食，板子
+impercise
+**********mature
+imature
+orientation
+{
+    aggressive
+    offensive
+    hostile敌对的{
+********************
+    hostile敌对的
+}
+{
+    adhere
+    stick
+    cling附着黏住
+}
+{
+    output
+    产量
+    yield
+
+}
+rudimentary
+slumber
+inertia
+infiltrate
+corollary
+resolve
+tile瓦片
+undertaking事业项目，承诺
+transmit
+restraint
+{
+    luminous发光的
+    luminosity
+}
+outermost
+vegetative
+plasma血浆等离子体
+{
+    swarm一大群
+    swamp沼泽
+}
+locomotion
+utmost最大限度
+dignity尊严
+****spot认出发现，地点
+{
+    primitive原始的
+    ***********************rudimentary未发展的
+    rudimentary
+    rudimentary
+}
+
+bud芽
+reminder
+remainder
+slumber睡觉**********************
+complement补充
+{
+    strive奋斗**********************
+    struggle
+    strenuous艰苦的
+    painstakingly
+    diligent勤勉的
+    industrious奋斗的
+    assiduous奋斗的
+    {
+        strive奋斗
+        struggle
+        strive奋斗
+        struggle
+    }
+}
+{
+    strive
+    struggle
+}
+figure
+figurative比喻的
+configuration布局
+credit归功于，学分
+outcry
+**********************retain保持
+inertia惯性惰性
+liquefy
+shrimp小虾
+editorial编辑的editorial
+assimilate理解吸收同化
+assimilate理解吸收同化
+soybean
+banner
+{
+    infiltrate渗透
+    percolate过滤渗透
+    penetrate
+    pierce
+    thrust
+    puncture，刺穿，penetrate，pierce
+    seep渗出
+    {
+        infiltrate
+        infiltrate
+        percolate过滤渗透
+        infiltrate
+        percolate过滤渗透
+        infiltrate
+        percolate过滤渗透
+        infiltrate
+        percolate过滤渗透
+    }
+
+
+}
+
+leach过滤**********************
+momentum动量
+odorous有气味的，难闻的
+thermal热
+leach过滤
+momentum动量
+**********************odorous有气味的，难闻的
+coefficient系数
+parameter参数
+vaporize
+waggle摆动**********************waggle摆动
+approximation
+bisect
+ellipse
+dividend红利，被除数
+weathering
+{
+    ******************************************************************
+    tarnish污点
+    tarnish污点
+    tarnish污点tarnish
+
+    stain
+}
+
+extrapolate推论{
+    corollary推论
+    extrapolate推论
+    extrapolate推论
+    extrapolate推论
+    extrapolate推论
+}
+
+mural fresco壁画
+privilege特权
+**********************amenity福利设施
+amenity福利设施
+pretension主张
+{
+    grim冷酷
+    grimly
+**********************
+}
+refurbish
+sensual
+
+
+
+
+
+#28
+
+
+potable
+disciple徒弟**********************
+meteor流星，meteorite陨石
+stripe条纹strap带子，捆
+deteriorate变坏
+grevious
+**********************deteriorate变坏
+deteriorate变坏
+deteriorate变坏
+bond连结
+handy可用的易用的
+gauge**测量
+embryo胚胎******************
+quadruple四倍的quadrupl//quadruple//quadruple  //quadruple//quadruple
+quadruple
+intergal完整的，不可缺少的的
+urgent
+quotient商份额quotient quotient quotient quotient quotient**********************
+geometric几何学
+geometry//geometric几何学的
+multiplicative
+minus 
+ordinate纵坐标
+numeric
+oblong矩形，椭圆形**********************
+quantitative数量的quantitative
+allot分配
+boycott抵制
+compensation补偿
+ordinal顺序的
+triple
+////quadruple //quadruple////quadruple
+quadruple
+curtail缩短
+deficit赤字
+deficient不做的
+motto格言
+reject
+tension紧张
+flame//blaze//brilliance
+vent通风口
+**********************mimic模仿mimic模仿mimic模仿mimic模仿
+laboratory
+laboratory
+**********************sour变酸变坏
+critique批评
+viral
+schedule//schedule//schedule//schedule
+schedule//schedule
+latter后者
+{
+    wintry寒冷的
+    frigid寒冷的
+    chilly寒冷的
+    freezing
+}
+
+fountain喷泉
+horizontal
+appetite胃口
+palate胃口
+palatable美味的
+perpendicular垂直的
+**********************perpendicular垂直的
+**********************perpendicular垂直的
+generous慷慨的
+bountiful（generous）慷慨的
+bountiful（generous）慷慨的
+**********************bountiful（generous）慷慨的generous
+synthesize合成
+{
+    innate固有的
+    inherent
+    innate固有的
+    inherent
+}
+disinterest
+uninterest
+asthma哮喘
+asthma哮喘
+mania狂热radical
+mania//radical根本的，激进的drastic
+aggregate聚集
+{
+    impair有害的
+    repair
+
+}
+
+bureau局
+excavate
+spining
+corrode//erode
+settle定居
+thorough彻底的
+spectrum光普
+overhaul
+innate固有的
+picturesque如化的**********************
+
+
+
+
+
+
+#29
+graphite石墨******
+shuffle洗牌
+modulate调整******
+rebate折扣******
+finch雀
+nostalgia乡愁nostalgia//******************nostalgia乡愁nostalgia
+nostalgia//nostalgia//nostalgia
+************************endorse签署赞同
+{
+    sanction制裁
+    endorse签署赞同
+    sanction制裁
+    endorse签署赞同endorse//endorse endorse endorse
+}
+{
+    fluctuate波动
+******    fluctuation
+}
+{
+    subsidiary辅助的，复数的
+    subordinate次要的，下级的复数的
+    affilate子公司
+    ******************************
+    {
+        subsidiary辅助的，复数的
+        subordinate次要的，下级的复数的
+        affiliate******************
+
+    }
+
+    {
+        subsidiary辅助的，复数的
+        subordinate次要的，下级的复数的
+        affiliate
+    }
+
+
+}
+
+import
+{
+    perquisite津贴，特权
+    perquisite津贴，特权
+    perquisite津贴，特权
+
+    privilege特权
+}
+
+
+mortgage按揭************************
+externality
+{
+    insolvent
+    bankrupt
+    deficit赤字
+}
+
+patronize******赞助
+negotiation
+recoup收回，弥补recoup/////recoup收回，弥补recoup//recoup收回，弥补recoup
+monetary
+redeem************赎回*********偿还，弥补，履行
+stagnant停滞，不景气
+stagnant停滞，不景气
+stagnant停滞，不景气
+premise前提************premise前提******************
+transact
+{
+    alleviate缓解
+    soothe缓解
+    relief
+    ******************************************************************************
+}
+rodent啮齿类动物
+punctual准时的
+punctual准时的
+{
+    punctual准时的
+    puncture，刺穿，penetrate，pierce
+    punctual准时的
+}
+dogged顽强的
+preliminary初步的
+{
+    primitive原始的
+    rudimentary未发展的
+    rudimentary
+    rudimentary
+    {
+        primitive原始的
+        rudimentary
+        primitive原始的
+        rudimentary
+    }
+    preliminary初步的
+    rudimentary
+    primitive原始的
+    rudimentary
+
+
+
+}
+
+deform
+******************aurora极光
+aurora极光///aurora aurora极光
+interstellar
+realm王国
+aviation
+manipulate操纵
+maneuver
+synthetic合成的
+census人口普车
+sustain
+flamboyant华丽的
+buoyant漂浮的
+vein 
+resilience恢复力，弹性
+{
+    tedious
+    monotonous单调的乏味的
+    monotonous
+    tedious
+}
+{
+    charter 
+    privilege特权
+    perquisite津贴，特权
+    perquisite津贴，特权
+
+}
+forefront前线
+undertake
+splash
+{
+    splash溅起
+    spill溅出
+}
+{
+    verse诗歌
+    versatile多才多艺
+    prose散文
+
+}
+
+flint打火石
+{
+    subdue征服
+    subtle精巧的
+    subdue征服
+    subtle精巧的
+    subtle精巧的
+}
+{
+    porcelain瓷器
+    ceramic陶瓷器
+    porcelain瓷器
+    ******************************ceramic陶瓷器
+    porcelain瓷器//ceramic陶瓷器//porcelain//ceramic陶瓷器
+}
+adhere
+token{
+    token
+    emblem徽章，标记
+
+}
+startling令人吃惊的
+{
+    urgent
+    imperative紧急的
+    imperative紧急的
+    imperative紧急的
+
+}
+
+prosper
+literature
+demanding
+rigorous谨慎的，严格的
+collapse崩溃
+collapse崩溃
+formation
+catalyst催化剂
+anomaly反常
+anomaly反常
+{
+    devour
+    voracious狼吞虎咽的
+}
+sculp
+{
+    magnify
+    exaggerate夸大
+}
+
+
+
+#30
+melody
+lunch
+{
+    阐明，
+    clarify
+    illuminate
+    formulate
+    ************************************
+}
+genre题材************
+coarse粗糙的//course 
+******pitch 
+millenia一千年//millenia一千年//millenia一千年
+ivory象牙
+entail牵涉ensue
+warp包裹
+league
+************************************consonant和谐的，协调的accord
+vibrant
+{
+    ******************************pathetic可怜的
+    miserable
+    wretched可怜的
+}
+{
+    miserable
+    wretched可怜的
+    pathetic
+    pathetic可怜的
+}
+
+agitate
+agitate
+generic
+
+//
+defiant反叛的{
+    rebellious
+    defiant反叛的
+
+}
+placid安静的
+{
+    tranquil宁静的*****
+    placid安静的
+    ******quiescent静止的
+    quiescent
+}
+gloomy昏暗的，忧郁的gloomy//gloomy//gloomy
+tangible可触摸的tangible//tangible可触摸的tangible
+chronical
+chronological编年
+{
+    extensive广阔的
+    vast
+}
+{
+    provoke激怒
+    agitate
+    stimulus
+
+}
+{
+    diverse不同的，多样的
+    diversify
+
+}
+
+overgraze
+ascertain
+criteria标准
+{
+    criteria标准
+    criterion标准certificate
+    certificate
+}
+
+
+******************************************************
+{
+    swoon昏厥
+    faint模糊不清楚虚弱无力
+    swoon昏厥
+}
+monument纪念碑
+monument纪念碑
+monument纪念碑
+definite 
+spring跳
+{
+    withdraw
+    withdraw取消撤销
+    ******cancel取消
+    
+}
+patent获得专利
+interfere干涉
+respective各自的
+monumental纪念碑的
+remnant剩余物
+******exotic外来的
+inherit继承
+rivalry敌对的
+protest抗议
+sacrificial牺牲的******************
+rebel
+sacrificial牺牲的
+pendent挂饰
+characterize
+{
+    audience
+    spectator观众audience
+}
+************************pasture大牧场
+cram填鸭
+precursor先驱
+{
+    precursor先驱
+    ******************************************************predecessor
+    pioneer
+
+}
+************************************teem充满到处都是teem
+algebra
+algae藻类
+devise设计发明
+{
+    algebra
+    algae藻类
+
+}
+
+hinterland内陆
+domain
+territory领地
+{
+    tutor教师
+    tuition教程
+}
+stellar恒星
+immutable永恒的
+immutable永恒的
+immutable永恒的
+cannibalism
+fraction小数
+{
+    fiction
+    friction摩擦
+    fraction小数
+}
+syllable音节
+{
+    syllabus教学大纲
+    syllable音节
+}
+grain 
+grainy
+diagram图表******************
+scavenger拾荒者
+scavenger拾荒者
+scavenger拾荒者
+multitude
+cautious
+substantiate证明证实substantiate
+substantiate证明证实substantiate
+precious珍贵的
+precise准取得
+{
+    precious珍贵的
+    precise准取得
+
+}
+
+entrepreneur企业家
+entrepreneur企业家
+entrepreneur企业家******************************
+
+
+
+#31
+
+clumsy
+corollary推论
+amount/总计totalize,
+steer驾驶
+{
+    violet紫罗兰
+    violate违反侵犯
+
+}
+ponderous笨重的，clumsy笨拙的**************
+{
+    ponderous笨重的，clumsy笨拙的
+    clumsy
+    ponderous 
+    clumsy 
+
+
+}
+visualize
+{
+    frugal节俭的
+    ******************************************************************
+    thrifty节俭的
+    frugal 
+    thrift节俭
+
+}
+passive 
+eschew回避**************
+eschew回避
+eschew回避
+{
+    deductive推演的
+    deductive推演的
+    corollary推论
+}
+illustrate 
+hedge篱笆
+pyramid金字塔
+liable
+delinquency失职
+{
+    exhort劝诫
+    extort勒索
+    exhort劝诫
+    ******************************************
+    extort勒索
+}
+disparate迥然不同的
+vivify
+ignite点火
+{
+    ********************************************************
+    spurn拒绝
+    spurn拒绝
+    spurn拒绝，轻蔑地拒绝
+    spurn拒绝
+    spurn拒绝
+    refuse
+    spurn拒绝
+
+}
+**************retrieve检索，取回//retrieve检索，取回//retrieve检索，取回
+tribute贡品**************
+expeditious迅速有效地**
+*****repetition反复重复//repeat //repetition反复重复
+assail抨击攻击
+{
+    exemplify是典型
+    exemplary典范的
+**************
+}
+permanence永恒
+****************************recess休息
+gang一伙
+ingenious巧妙地
+elevate
+{
+    replace 
+    substitute取代
+    substitute
+    substitute
+}
+twist
+alphabet字母表
+contract合同{
+    diverse
+    divert转移注意
+    diversion消遣娱乐
+}
+{
+    revoke撤回
+    provoke激怒
+}
+melanin和色素**************
+{
+    zealous
+    mania
+    radical根本的，激进的drastic
+    zealous
+    zealous
+    zealous
+}
+swallow
+pierce刺破
+recoil弹回，
+infrastructure基础设施
+engrave
+vehicle
+meteorological
+{
+    strap带子困扎****************************
+    strip剥掉
+    stripe条纹
+}
+kinetic运动的
+primary 
+elementary
+stationary静止的
+notation符号
+prime 
+specific
+aggregate聚集
+{
+    ******************************************
+    flock一群
+    falcon猎鹰
+
+}
+nectar花蜜**************
+nectar花蜜
+{
+    ************************************************************************************
+    frigid寒冷的
+    voracious狼吞虎咽的
+    devour
+    spurn拒绝
+    hamper妨碍阻挠
+    thwart阻碍，使受挫
+    baffle困难
+    aurora极光
+    spurn拒绝
+    thrifty节俭的
+    frugal节俭的
+    slumber睡觉
+    slumber睡觉
+    thrifty
+    obsolete过时的
+    prestige名誉声望
+    prestige名誉声望//prestige名誉声望//prestige名誉声望
+    pigeon鸽子
+    delectable美味的
+    defecate排便
+    abrasion磨损
+    chafe擦伤
+    burrow打洞
+    buoyant漂浮的
+    **********************************************************************
+
+}
+
+{
+    flock一群，聚集，结群
+    aggregate聚集
+    gather
+}
+
+nectar花蜜//nectar花蜜//nectar花蜜//nectar花蜜//nectar花蜜
+enactment制定
+sluggish行动迟缓的//sluggish行动迟缓的//sluggish行动迟缓的//sluggish行动迟缓的
+obsolete过时的
+{
+    reputation
+    stature身高，地位声望
+    prestige名誉声望
+}
+silicate
+moral道德{
+    moral道德
+    mortality死亡率
+    immortal
+}
+****pigeon鸽子
+pigeon鸽子/pigeon鸽子
+delectable美味的
+{
+    palatable美味的
+    delectable美味的
+    delectable美味的
+}
+{
+    abrasion磨损
+    chafe擦伤
+}
+fiber
+{
+    burrow打洞
+    borrow借
+
+}
+defecate排便
+
+
+monotonous
+
+
+
+#32
+
+crust壳
+scholar
+validate生效
+abort中止夭折
+{
+    eschew回避
+    eschew回避
+    evade逃避
+    evade逃避
+}
+arable可耕的
+divine神圣的devour狼吞虎咽
+**************************relegate贬低，降职
+vicious 
+coherent连贯的
+cohere连贯
+{
+    adroit精明的
+    shrewd精明的
+    astute
+    judicial
+    **************************
+
+}
+
+reiterate重申
+monogamous一夫一妻
+tame驯服domestic
+tame驯服domestic////tame驯服，tame驯服//tame驯服 
+stigma耻辱**************************
+outlive
+****************************************************trivialize琐碎
+resent憎恶
+degenerative堕落的
+solemn庄严的
+solemn庄严的**************************
+trivialize琐碎
+{
+    solemn庄严的
+    trivialize琐碎
+    stigma耻辱
+    tame驯服domestic
+}
+
+knit 
+glorify
+financial
+crusade十字远征军
+*******crusade十字远征军//crusade//crusade//crusade
+voltage
+fundamental基础的
+merchant商人***************
+crusade
+crusade
+facade正面，表面
+facade正面，表面
+{
+    drench湿润
+    soak润湿
+    drench湿润soak
+    **************************
+
+}
+resume重返，简历**************************
+proposal提案
+propose建议，提议
+hardy强壮的
+acid酸的
+thorn刺*******************
+lethal致命的
+{
+    grab抓
+    garb服装
+}
+contrary
+heritage//heritage遗产
+cavity洞
+astronomical天文学
+likewise同样
+eloquent雄辩的
+primate灵长类，主教
+**************************reluctant不情愿
+reluctant不情愿
+**************************stem茎，阻碍
+genetic遗传学
+girder主梁
+allergic
+bold大胆，醒目的
+determine
+vapor蒸汽
+spawn卵******************************************************************************
+epoch新时代
+{
+    era时代
+    epoch新时代
+}
+collusion
+substantial
+revival
+{
+    shovel铲子
+    shrivel枯萎
+****************************************************
+
+
+
+}
+spectacular壮观
+spectator观众audience
+{
+    {
+        shovel铲子
+        shrivel枯萎
+    }
+    {
+        epoch新时代
+        bold大胆，醒目的
+        stem茎，阻碍
+        lethal致命的
+        solemn庄严的
+        reiterate重申
+        stigma耻辱
+        trivialize琐碎
+
+    }
+    {
+        drench湿润soak
+
+    }
+    {
+        adroit精明的
+        shrewd精明的
+        judicial
+        astute精明
+    }
+    {
+        eschew回避
+        evade逃避
+    }
+
+}
+{
+    adroit精明的
+    astute
+    judicial
+    shrewd精明的
+}
+
+
+
+
+#33
+caption字幕
+prolong
+*************detract减损
+scourge鞭挞。受难*****
+aberrant越轨的，异常的******
+{
+    disperse散开
+    scatter散开******************************
+
+}
+ponder深思熟虑
+{
+    ************************************************************
+    ponderous笨重的，clumsy笨拙的
+    ponder深思熟虑
+    meditate
+    meditate深思沉思
+    {
+        meditate深思沉思
+        mediate调停
+    }
+}
+
+suspense担心，焦虑
+hesitate
+charismatic超凡魅力的
+arrogant傲慢的自大的
+instantaneous立刻的瞬间的****
+smear乱涂乱花，诽谤！********************
+tenet信条********************tenet信条
+tenet信条**********tenet信条
+{
+    wretched可怜的
+    wretch不幸的人，无赖
+}
+ruthless冷酷无情的
+cohabitation
+{
+    synonym同义词**************************************************
+    antonym反义词antonym
+    {
+        synonym同义词
+        antonym反义词antonym
+        synonym同义词
+        antonym反义词antonym
+        synonym同义词
+        antonym反义词antonym
+
+    }
+}
+
+
+**********proportion比例部分proportion////proportion比例部分proportion
+********************proportion比例部分proportion
+reddish微红的
+fellowship友谊
+architect建筑师
+{
+    band 
+    rally集合
+    aggregate聚集//relegate
+}
+gemstone
+thesis论文论点
+clan氏族
+deserted荒废的，空无一人的
+lobby休息室游说
+probe探针
+toed
+vigilance警惕********************
+legislature立法机关
+**********gaseous气态的///gaseous气态的//gaseous气态的
+precious珍贵的{
+    precious珍贵的
+    precise准确的
+    precious珍贵的
+    precise准取得
+}
+debt负债
+********************glean点滴收集glean//glean点滴收集glean
+glean点滴收集glean
+rural乡村的rural//rural乡村的rural//rural 
+tally账**********
+curl 
+snack点心
+snack点心snack点心**********
+{
+    sperm精子
+    spawn卵
+
+    spurn拒绝
+}
+cramped狭窄的
+shellfish
+postpone
+trace***查出，追溯，探索，痕迹
+gnaw咬，rodent啮齿类
+{
+    gnaw咬，rodent啮齿类
+    gnaw咬，rodent啮齿类
+    rodent啮齿类动物
+
+}
+
+petition情愿
+tribal部落
+destination
+attach
+seismic地震的
+{
+    designate{
+        命名
+        name，appoint
+        任命
+        nominate**********
+
+    }
+
+
+}
+{
+    barren贫瘠的
+    sterile不育的，贫瘠的
+    infertile
+}
+{
+    sore疼
+    sour变酸变坏！**********
+}
+descriptive
+multiply乘，增加
+{
+    luxurious
+    splendid
+    sumptuous奢华的
+******************************************************************************************
+luxurious
+splendid华丽的，灿烂的
+sumptuous奢华的
+luxurious
+splendid
+sumptuous
+luxurious
+splendid
+sumptuous奢华的
+
+
+    
+}
+{
+    allegiance
+    loyalty
+    devotion
+}
+bellow风箱
+accomplish
+ripe成熟的mature**********！ 
+detective侦探
+{
+    merchandise
+    merchant商人
+    ******************************commodity商品货物
+    merchandise
+    commodity商品货物
+    
+}
+temper脾气
+temperate温和的******************************
+
+devastate毁坏
+counterparts相对
+**********seal密封，海豹，图章
+seal密封，海豹，图章
+seal密封，海豹，图章
+
+
+#34
+
+bounce弹起
+{
+    graphic图形
+    graphite石墨
+}
+**********regulate管理
+{
+    pause中止
+    halt停止
+
+}
+elusive模糊的，难以辨别，难以理解
+elusive模糊的，难以辨别，难以理解
+elusive模糊的，难以辨别，难以理解
+exclusive排他的，独有的
+
+giraffe
+giraffe
+giraffe
+
+assortment各式各样
+predominate
+{
+    approach接近
+    reproach批评指责
+********************************************************************************
+    {
+        repair
+        impair有害的
+    }
+}
+{
+    **********************************************************************
+    retract收回
+    detract减损
+    diminish减小
+    **********************************************************************
+}
+pharaoh法老
+encroach侵占，侵蚀
+encroach侵占，侵蚀
+encroach侵占，侵蚀
+glorious
+toady谄媚
+{
+    **********************ambivalent对立的
+    controversial
+}
+
+{
+    momentary
+    ******************************************************************
+    temporary片刻的暂时的
+    temporary片刻的暂时的
+    instantaneous立刻的瞬间的
+    temporary片刻的暂时的
+    instantaneous立刻的瞬间的
+    ********************************************
+
+}
+
+lofty
+scrupulous多虑的，谨慎的
+{
+    agile敏捷的灵活的
+    nimble敏捷的******************************************************************
+
+    nimble敏捷的
+    nimble敏捷的
+}
+perpetual永久的
+{
+    permanent持续的，永久的
+    enteral 
+    perpetual永久的
+
+
+}
+antecedent祖先
+extinguish
+********************************************dote溺爱
+{
+    dote溺爱
+    spoil，
+
+}
+{
+    consecutive持续的，连贯的******************************************************************
+    coherent连贯的
+    consistent一贯的
+    consistency密度一致性
+}
+liberal
+rental
+**********************skeletal骨骼的
+skeletal骨骼的
+tough
+cluster簇clump
+{
+    clumsy笨拙的，不灵巧的
+    cluster簇clump
+    clumsy
+    ******************************************************************
+
+
+}
+repertoire
+repertoire
+repertoire
+imitate
+exploit
+{
+    rally集合
+    aggregate聚集
+
+}
+{
+    eradicate清除
+    eliminate除去
+    remove
+}
+{
+    scatter散开
+    disperse散开
+}
+{
+    proliferate激增
+    reproduce
+    propaganda宣传鼓吹
+    propagate传播繁殖
+    ********************************************
+}
+{
+    errand差使
+    dispatch派遣
+}
+{
+    crowd
+    swarm一大群
+    horde
+    swampy沼泽
+    ********************************************
+
+
+}
+lieracy
+**********************subsidy补助金
+{
+    subsidy补助金
+    allowance
+    subsidiary辅助的，复数的
+    {
+        subsidiary辅助的，复数的
+        affiliate
+        subordinate次要的，下级的复数的
+    }
+
+}
+cape海角
+generalize
+**********************sledge雪橇
+{
+    merchandize
+    commodity商品货物
+
+}
+scout侦察**********************
+{
+    inflate
+    dilate
+    swell扩大
+
+}
+herd兽群
+{
+    swarm一大群
+    crowd
+    horde大群，部落
+    herd兽群，放牧
+
+}
+
+abrupt突然的，以外的
+sew缝纫
+avert
+shuttle
+{
+    snake 
+    sneaker
+    snaeak溜偷摸
+    snack点心
+
+}
+flap拍打
+sauce酱汁condiment//condemn指责
+adjunct零件
+accessory
+{
+    adjunct零件
+    accessory
+}
+{
+    snake
+    sneaker
+    snack点心
+}
+wasp黄蜂
+foment煽动{
+    foment
+    instigate
+    煽起，挑起
+    foment
+    instigate
+    foment
+    instigate
+}
+{
+    stalk
+    stem茎
+    茎，杆
+}
+irrigate灌溉
+authority权力，官方，当局
+clinic 
+sanctuary圣所，避难所shelter，refuge，保护区
+sanction制裁
+{
+    sanction制裁
+    sanctuary圣所，避难所shelter，refuge，保护区
+    sanction制裁
+    sanctuary圣所，避难所shelter，refuge，保护区
+    sanction制裁
+    sanctuary圣所，避难所shelter，refuge，保护区
+}
+linguist语言学家
+seal密封，海豹，图章
+{
+    candidate
+    nominee
+    候选人
+}
+{
+    ************************************************************
+    speculate推测
+    hypothesis
+
+    ************************************************************
+    spectator
+    spectacular壮观
+    speculate推测
+}
+
+abiding持久的
+yield产量
+continuity连贯性，consistency succession
+    ***********************************************************
+************************************************************
+{
+    drench湿润soak
+    soak润湿
+    stature身高，地位声望
+    saturate使湿透
+
+}
+
+
+
+#35
+rodeo牛仔
+loan贷款
+collaborator
+{
+************************************************************
+phase相位
+phrase短语
+
+}
+specimen标本样品//specimen标本样品//specimen标本样品
+deficit赤字
+deficient不足的，缺乏的
+{
+    deficit赤字
+    deficient不做的
+    deficit赤字
+    deficient不做的
+
+}
+legible清楚的
+complicate
+*************sophisticate
+{
+    complicate
+    sophisticate
+    ************************************************************
+}
+limb臂*********************************
+{
+    subsequent
+    successive
+    随后的，并发的
+}
+dorsal背部的，脊梁的
+cable电缆
+bloom花开
+{
+    protrude伸出的
+    invasive
+    invade
+    intrude闯入，侵入
+}
+
+mansion大厦府邸
+aquarium水族馆
+melodrama
+wholesome健康的
+predator捕食者 
+mesmerize使入迷，迷住*********************
+charismatic超凡魅力的
+lichen青苔
+gospel准则，信条tenet，
+{
+    mesmerize使入迷，迷住
+    *********************charismatic超凡魅力的
+    charismatic超凡魅力的
+
+
+
+}
+groan呻吟叹息moan，sigh
+{
+    groan呻吟叹息 
+    groan呻吟叹息
+    groan呻吟叹息
+    moan 
+    sign叹息
+    {
+        groan 
+        moan 
+        sigh 
+    }
+}
+{}
+    modest谦虚的
+    humble谦逊
+}
+magnificent
+{
+    ************************************************************************************
+    magnificent
+    极好的wonderful
+    华丽的gorgeous
+}
+indigestion
+perpetual永久的
+perpetuate
+companion同伴
+flamboyant华丽的
+buoyant漂浮
+companion同伴
+twine细绳，缠绕
+resident常驻的
+concede承认，让步（yield产出，产量，让步）
+condiment调料
+condemn指责
+{
+    float
+    buoyant漂浮的
+}
+rod杆
+*********************formidable难以对付的
+formidable难以对付的
+formidable难以对付的
+obedience***************************************************************
+顺从{
+    *********************************************************************************************************
+    submittal顺从，服从
+    compliance顺从服从
+    obedience顺从服从
+}
+persist坚持******************************************
+{
+    skeptical
+    incredulous难以置信的
+    suspicious可疑的
+    
+}
+{
+    deficit赤字
+    deficient不做的
+    dearth缺乏短缺*********************
+
+}
+glimmer微光
+{
+    staunch
+    loyalty
+    devotion
+    allegiance
+}
+traverse横渡
+malice恶意
+*********************pernicious有害的
+sneaky鬼鬼祟祟
+{
+    uphold支持
+    exponent
+}
+*********************forsake抛弃
+forsake抛弃
+forsake抛弃
+vow誓言*********************
+vow誓言
+embargo禁运
+{
+    ordeal折磨
+    scourge鞭挞。受难
+}
+{
+    abhor憎恨
+    loathe憎恨
+
+}
+deflect转向
+pernicious有害的
+{
+    pernicious有害的
+    poison毒药
+    poisonous
+    venom
+    venomous有毒的
+}
+{
+    poison毒药
+    poisonous
+    toxic
+    venom
+    venomous有毒的
+}
+{
+    skeptical
+    suspicious可疑的
+    incredulous
+}
+venturesome
+diagnose
+regiment一大群
+*********************************************
+cartilage软骨
+{
+    swarm一大群
+    horde大群，部落
+    herd兽群
+    regiment一大群
+
+}
+cartilage软骨
+cartilage软骨
+cartilage软骨
+
+
+
+#36
+ascent上升
+fold 
+discrete
+courier信使
+sculpture
+polygamy一夫多妻
+despise蔑视，看不起
+***************trumpet鼓吹，喇叭
+***************convene集合召集
+{
+    babble模糊，胡言乱语
+    bubble水泡
+}
+canopy棚子
+notable
+subjective
+tolerable可以忍受的
+***************exclaim呼喊
+contradictory
+irregular
+anonymous
+anomalous异常的，不规则的
+anomaly反常
+nauseous恶心
+{
+    anomaly反常
+    anomalous异常的，不规则的
+}
+{
+    consent 
+    dissent不同意
+}
+tender嫩的
+bolt闩，闪电
+calamitous灾难性的
+{
+    disastrous灾难性的
+    calamitous灾难性的
+}
+{
+    hypothesis
+    推测，猜测
+    speculate推测
+    surmise
+    {
+        hypothesis
+        speculate推测
+        surmise 
+
+    }
+
+}
+{
+    anomaly反常
+    anomalous异常的，不规则的
+    {
+        anomaly反常
+        anomalous异常的，不规则的
+    }
+
+}
+
+{
+    copious富饶的
+    fertile富饶的
+    afferent丰富的
+
+}
+superimpose
+congest充血，堵塞
+{
+    memory
+    ******remembrance
+    recollection
+
+}
+debut首次亮相***************
+orchid兰花
+convince
+ardent*********************************************热心的
+***************convection对流
+{
+    ardent热心的
+    ardent
+    ardent热心的
+    ardent热心的
+}
+***************hollow中空的
+{
+    vague模糊obscure***************
+    vogue流行
+    vulgar下流的，粗俗的***************************************************************************
+    vulgar下流的，粗俗的
+    vulgar下流的，粗俗的
+    vulgar下流的，粗俗的
+    vulgar下流的，粗俗的
+    {
+        vague模糊obscure
+        vogue
+        vulgar下流的，粗俗的
+
+    }
+
+}
+antibiotic抗生素，抗菌的antibiotic
+rinse冲洗
+rinse冲洗
+insult侮辱
+{
+    insult侮辱
+    affront侮辱
+    humiliate侮辱
+    ***************************************************************************
+
+}
+gourmet美食家
+gourmet美食家
+gourmet美食家
+insect昆虫
+surgery
+{
+    strategy
+    tactic 
+}
+{
+    disgusting
+    distasteful厌恶的
+    nauseous恶心
+
+}
+medieval中世纪
+**************clamor吵闹，喧哗
+{
+    clamor吵闹，喧哗
+    clamor吵闹，喧哗
+    clamor吵闹，喧哗
+    clamor吵闹，喧哗
+    clamor吵闹，喧哗
+    clamor吵闹，喧哗    noise 
+
+
+
+}
+**************laundry洗衣房
+laundry洗衣房
+laundry洗衣房
+laundry洗衣房
+laundry洗衣房
+
+spew喷出
+exude喷出
+vomit吐出，用出
+
+laundry洗衣房
+clamor吵闹，喧哗
+
+{
+    subliminal下意识的
+    sublimate升华
+}
+{
+    blame
+    condemn指责
+    rebuke指着
+    {
+        blame
+        condemn指责
+        rebuke指着
+    }
+}
+hemisphere
+squirrel松鼠
+squirrel松鼠
+squirrel松鼠//squirrel松鼠//squirrel//squirrel
+
+enforce生效
+pollen花粉//pollen花粉//pollen//pollen
+monotonous单调的乏味的
+outfit全套装备
+distinguish区别
+artisan工匠
+elliptical
+ellipse
+**************mint铸币长，薄荷
+mint铸币长，薄荷
+mint铸币长，薄荷
+
+
+#37
 
 
 
